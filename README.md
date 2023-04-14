@@ -1,5 +1,8 @@
 # JSHTMLHomework
 
+# 部署連結
+https://21jasper12.github.io/JS_HTML_homework/
+
 # 【主頁】
 ![主頁](https://github.com/21Jasper12/JS_HTML_homework/blob/main/src/assets/homeIMG.png)
 
